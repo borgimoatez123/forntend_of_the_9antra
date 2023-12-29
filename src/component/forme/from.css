@@ -1,0 +1,87 @@
+.containerss {
+
+  background-color: #fff;
+  margin-left: 400px;
+  margin-top: 50px;
+  padding: 10px;
+ 
+  height: 500px;
+  justify-content: center;
+  align-items: center;
+}
+
+form {
+  background-color: #f9b454;
+  padding: 5px;
+  border-radius: 8px;
+  max-width: 400px;
+  margin: auto;
+}
+label{
+  font-weight: bold;
+  margin-right: 300px;
+}
+.carteform {
+  width: 1000px;
+  height: 400px;
+  border-width: 1px;
+  border-color: #f9b454;
+  border-radius: 5rem;
+  background-color: #f9b454;
+  padding: 1rem;
+}
+h2 {
+  font-size: 30px;
+  text-align: center;
+  margin-top: 1px;
+  margin-bottom: 3px;
+}
+input[type="text"],
+input[type="email"],
+textarea {
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 1px;
+  border-radius: 5px;
+  border-radius: 2rem;
+  background-color: #ffffffa3;
+  border: 1px solid #cccccc;
+  box-sizing: border-box;
+}
+
+input[type="submit"] {
+  background-color: #f9b454;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: #e0a800;
+}
+
+.buttonform {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 18px;
+  border-radius: 9px;
+  width: 200px;
+  height: 40px;
+  font-weight: bold;
+  transition: 0.3s;
+  background-color: #af2f64;
+  position: relative;
+  left: 28%;
+  margin-top: 10px;
+
+}
+
+.buttonform:hover {
+  opacity: 0.7;
+}

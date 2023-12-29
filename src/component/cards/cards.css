@@ -1,0 +1,33 @@
+.text{
+    margin: 50px;
+}
+.title h1 {
+    font-weight: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-right: 150px;
+}
+
+.original-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 400px;
+    line-height: 1;
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 18px;
+    border-radius: 20px;
+    width: 200px;
+    height: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+    background-color: #af2f64;
+  }
+  
+  .original-button:hover {
+    opacity: .7;
+  }
+  .price p{
+    color: #af2f64;
+    font-weight: bold;
+  }
